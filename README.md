@@ -8,4 +8,4 @@
 
   - Cristian David Rodríguez López - 20171020072  
 
-![Infografía Proceso Unificado](https://github.com/dragesteban/Infografia-Proceso-Unificado-FIS/blob/main/Proceso%20unificado.png)
+![Infografía mportancia de la Ingeniaría de Software](https://github.com/cristianrodriguez05/Infografia-Ingenieria-de-software-FIs/blob/main/La%20importancia%20de%20la%20ingenieria%20de%20software.png)
